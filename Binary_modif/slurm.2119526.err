@@ -1,0 +1,10 @@
+slurmstepd: error: Unable to get current working directory: No such file or directory
+--------------------------------------------------------------------------
+mpirun was unable to launch the specified application as it could not access
+or execute an executable:
+
+Executable: ./Main_UnequalMassBinaryBH4dST3d.Linux.64.mpiCC.ifort.OPTHIGH.MPI.OPENMPCC.ex
+Node: cn0193
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
