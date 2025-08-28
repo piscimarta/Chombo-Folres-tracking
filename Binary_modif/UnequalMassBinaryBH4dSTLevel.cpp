@@ -22,6 +22,7 @@
 #include "RhoDiagnostics.hpp"
 #include "ScalarExtraction.hpp"
 #include "SetValue.hpp"
+#include "BoundaryConditions4dST.hpp"
 #include "SixthOrderDerivatives.hpp"
 #include "SmallDataIO.hpp"
 #include "TraceARemoval.hpp"
